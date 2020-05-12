@@ -351,6 +351,10 @@ export default defineMessages({
     id: 'projects.formInputs.priority_areas.action.clear',
     defaultMessage: 'Clear all',
   },
+  downloadProjectAOI: {
+    id: 'projects.formInputs.priority_areas.link.aoi',
+    defaultMessage: 'Download AOI',
+  },
   name: {
     id: 'projects.formInputs.name',
     defaultMessage: 'Name of the project',
